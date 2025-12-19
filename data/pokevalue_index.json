@@ -1,1 +1,1152 @@
 
+
+  {
+    "id": "pikachu_shiny_fragment_hat",
+    "display_name": "Shiny Fragment Hat Pikachu",
+    "pokemon_species": "Pikachu",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Fragment Hat",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 85,
+    "dollar_value": 300,
+    "dollar_value_display": "$300",
+    "value_tier": "grail",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "grail",
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "snorlax_shiny_nightcap",
+    "display_name": "Shiny Nightcap Snorlax",
+    "pokemon_species": "Snorlax",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Nightcap",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 98,
+    "dollar_value": 250,
+    "dollar_value_display": "$250",
+    "value_tier": "grail",
+    "tbts": false,
+    "trend": "up",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "grail",
+      "hot",
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "pikachu_shiny_libre",
+    "display_name": "Shiny Pika Libre",
+    "pokemon_species": "Pikachu",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Libre",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 90,
+    "dollar_value": 125,
+    "dollar_value_display": "$125",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "charmander_shiny_cubone_costume",
+    "display_name": "Shiny Cubone Costume Charmander",
+    "pokemon_species": "Charmander",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Cubone Costume",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 92,
+    "dollar_value": 110,
+    "dollar_value_display": "$110",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "up",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "hot",
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "charmander_shiny_cubone_costume_2",
+    "display_name": "Cubone Costume Charmander (Shiny)",
+    "pokemon_species": "Charmander",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Cubone Costume",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 82,
+    "dollar_value": 110,
+    "dollar_value_display": "$110",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "up",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "hot",
+      "costume"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "ho_oh_apex",
+    "display_name": "Apex Ho-Oh",
+    "pokemon_species": "Ho-Oh",
+    "form": "apex",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Apex",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 88,
+    "dollar_value": 75,
+    "dollar_value_display": "$75",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "lugia_apex",
+    "display_name": "Apex Lugia",
+    "pokemon_species": "Lugia",
+    "form": "apex",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Apex",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 88,
+    "dollar_value": 75,
+    "dollar_value_display": "$75",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "squirtle_shiny_yamask_costume",
+    "display_name": "Shiny Yamask Costume Squirtle",
+    "pokemon_species": "Squirtle",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Yamask Costume",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 86,
+    "dollar_value": 70,
+    "dollar_value_display": "$70",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "bulbasaur_shiny_shedinja_costume",
+    "display_name": "Shiny Shedinja Costume Bulbasaur",
+    "pokemon_species": "Bulbasaur",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Shedinja Costume",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 88,
+    "dollar_value": 55,
+    "dollar_value_display": "$55",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "solgaleo_background_sun",
+    "display_name": "Sun Background Solgaleo",
+    "pokemon_species": "Solgaleo",
+    "form": "normal",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Background",
+    "background": {
+      "type": "global_special",
+      "name": "Sun"
+    },
+    "trade_score": 84,
+    "dollar_value": 55,
+    "dollar_value_display": "$55",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume_background",
+    "tags": [
+      "costume",
+      "background",
+      "global_bg"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "lunala_background_moon",
+    "display_name": "Moon Background Lunala",
+    "pokemon_species": "Lunala",
+    "form": "normal",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Background",
+    "background": {
+      "type": "global_special",
+      "name": "Moon"
+    },
+    "trade_score": 84,
+    "dollar_value": 55,
+    "dollar_value_display": "$55",
+    "value_tier": "premium",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume_background",
+    "tags": [
+      "costume",
+      "background",
+      "global_bg"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "charizard_clone",
+    "display_name": "Clone Charizard",
+    "pokemon_species": "Charizard",
+    "form": "clone",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Clone",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 72,
+    "dollar_value": 35,
+    "dollar_value_display": "$35",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "venusaur_clone",
+    "display_name": "Clone Venusaur",
+    "pokemon_species": "Venusaur",
+    "form": "clone",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Clone",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 70,
+    "dollar_value": 32,
+    "dollar_value_display": "$32",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "blastoise_clone",
+    "display_name": "Clone Blastoise",
+    "pokemon_species": "Blastoise",
+    "form": "clone",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Clone",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 70,
+    "dollar_value": 32,
+    "dollar_value_display": "$32",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "sableye_shiny_litwick_hat",
+    "display_name": "Shiny Litwick Hat Sableye",
+    "pokemon_species": "Sableye",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Litwick Hat",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 90,
+    "dollar_value": 30,
+    "dollar_value_display": "$30",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "up",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "hot",
+      "costume",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "kyurem_shiny_background_black",
+    "display_name": "Shiny Kyurem (Black Background)",
+    "pokemon_species": "Kyurem",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Background",
+    "background": {
+      "type": "global_special",
+      "name": "Black"
+    },
+    "trade_score": 80,
+    "dollar_value": 25,
+    "dollar_value_display": "$25",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume_background",
+    "tags": [
+      "costume",
+      "background",
+      "global_bg"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "pikachu_shiny_rockstar",
+    "display_name": "Shiny Rockstar Pikachu",
+    "pokemon_species": "Pikachu",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Rockstar",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 72,
+    "dollar_value": 22,
+    "dollar_value_display": "$22",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "pikachu_shiny_popstar",
+    "display_name": "Shiny Popstar Pikachu",
+    "pokemon_species": "Pikachu",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Popstar",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 72,
+    "dollar_value": 22,
+    "dollar_value_display": "$22",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "mewtwo",
+    "display_name": "Armored Mewtwo",
+    "pokemon_species": "Mewtwo",
+    "form": "armored",
+    "shiny": false,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 70,
+    "dollar_value": 20,
+    "dollar_value_display": "$20",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "down",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "core",
+    "tags": [],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "pikachu_clone",
+    "display_name": "Clone Pikachu",
+    "pokemon_species": "Pikachu",
+    "form": "clone",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Clone",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 65,
+    "dollar_value": 20,
+    "dollar_value_display": "$20",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "dragonite_shiny_fashion",
+    "display_name": "Shiny Fashion Dragonite",
+    "pokemon_species": "Dragonite",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Fashion",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 86,
+    "dollar_value": 12,
+    "dollar_value_display": "$12",
+    "value_tier": "mid",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "costume",
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "lugia_shiny",
+    "display_name": "Shiny D-Max Lugia",
+    "pokemon_species": "Lugia",
+    "form": "d-max",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 84,
+    "dollar_value": 12,
+    "dollar_value_display": "$12",
+    "value_tier": "mid",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "mewtwo_shiny",
+    "display_name": "Shiny Mewtwo",
+    "pokemon_species": "Mewtwo",
+    "form": "normal",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 75,
+    "dollar_value": 12,
+    "dollar_value_display": "$12",
+    "value_tier": "mid",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "shedinja_shiny",
+    "display_name": "Shiny Shedinja",
+    "pokemon_species": "Shedinja",
+    "form": "normal",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 78,
+    "dollar_value": 10,
+    "dollar_value_display": "$10",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "rockruff_shiny",
+    "display_name": "Shiny Rockruff (Dusk)",
+    "pokemon_species": "Rockruff",
+    "form": "dusk",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 82,
+    "dollar_value": 8,
+    "dollar_value_display": "$8",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "pikachu_libre",
+    "display_name": "Pika Libre",
+    "pokemon_species": "Pikachu",
+    "form": "normal",
+    "shiny": false,
+    "costume": true,
+    "costume_name": "Libre",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 78,
+    "dollar_value": 8,
+    "dollar_value_display": "$8",
+    "value_tier": "cheap",
+    "tbts": false,
+    "trend": "stable",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "costume",
+    "tags": [
+      "costume"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "eevee_shiny",
+    "display_name": "Shiny D-Max Eevee",
+    "pokemon_species": "Eevee",
+    "form": "d-max",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 80,
+    "dollar_value": 6,
+    "dollar_value_display": "$6",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "rayquaza_shiny",
+    "display_name": "Shiny Rayquaza (Dragon Ascent)",
+    "pokemon_species": "Rayquaza",
+    "form": "special",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 84,
+    "dollar_value": 5,
+    "dollar_value_display": "$5",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "mewtwo_2",
+    "display_name": "Mewtwo",
+    "pokemon_species": "Mewtwo",
+    "form": "normal",
+    "shiny": false,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 78,
+    "dollar_value": 5,
+    "dollar_value_display": "$5",
+    "value_tier": "cheap",
+    "tbts": false,
+    "trend": "down",
+    "confidence": 3,
+    "confidence_label": "high",
+    "category": "core",
+    "tags": [],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "groudon_shiny",
+    "display_name": "Shiny Groudon",
+    "pokemon_species": "Groudon",
+    "form": "normal",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 82,
+    "dollar_value": 4,
+    "dollar_value_display": "$4",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "kyogre_shiny",
+    "display_name": "Shiny Kyogre",
+    "pokemon_species": "Kyogre",
+    "form": "normal",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 82,
+    "dollar_value": 4,
+    "dollar_value_display": "$4",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "alolan_raichu_shiny",
+    "display_name": "Shiny Alolan Raichu",
+    "pokemon_species": "Alolan Raichu",
+    "form": "normal",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 80,
+    "dollar_value": 4,
+    "dollar_value_display": "$4",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "snorlax_shiny_cowboy_hat",
+    "display_name": "Shiny Cowboy Hat Snorlax",
+    "pokemon_species": "Snorlax",
+    "form": "normal",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Cowboy Hat",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 80,
+    "dollar_value": 4,
+    "dollar_value_display": "$4",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "up",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "hot",
+      "costume",
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "rayquaza_shiny_2",
+    "display_name": "Shiny Rayquaza (No DA)",
+    "pokemon_species": "Rayquaza",
+    "form": "special",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 78,
+    "dollar_value": 3,
+    "dollar_value_display": "$3",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "espurr_shiny",
+    "display_name": "Shiny Espurr",
+    "pokemon_species": "Espurr",
+    "form": "normal",
+    "shiny": true,
+    "costume": false,
+    "costume_name": null,
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 76,
+    "dollar_value": 3,
+    "dollar_value_display": "$3",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "up",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "core",
+    "tags": [
+      "hot",
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  },
+  {
+    "id": "shinx_shiny_fashion",
+    "display_name": "Shiny Fashion Shinx (Unevolvable)",
+    "pokemon_species": "Shinx",
+    "form": "special",
+    "shiny": true,
+    "costume": true,
+    "costume_name": "Fashion",
+    "background": {
+      "type": "none",
+      "name": null
+    },
+    "trade_score": 76,
+    "dollar_value": 3,
+    "dollar_value_display": "$3",
+    "value_tier": "cheap",
+    "tbts": true,
+    "trend": "stable",
+    "confidence": 2,
+    "confidence_label": "medium",
+    "category": "costume",
+    "tags": [
+      "costume",
+      "cheap_trade",
+      "trade_currency"
+    ],
+    "notes_short": null,
+    "notes_detail": null,
+    "move_modifier": {
+      "type": "none",
+      "name": null
+    }
+  }
+]
