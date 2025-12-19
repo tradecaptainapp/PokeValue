@@ -1,2 +1,0 @@
-# PokeValue
-The PokeValue app
