@@ -1,13 +1,14 @@
-document.getElementById("app").innerHTML = `
-  <div style="
-    padding: 16px;
-    margin-top: 16px;
-    border-radius: 8px;
-    background: #1f2937;
-    color: #ffffff;
-    font-size: 16px;
-  ">
-    ✅ JavaScript is running.<br>
-    PokeValue engine initialized.
-  </div>
-`;
+document.addEventListener("DOMContentLoaded", () => {
+  const app = document.getElementById("app");
+
+  const testMessage = document.createElement("div");
+  testMessage.innerText = "✅ JavaScript is running!";
+  testMessage.style.padding = "16px";
+  testMessage.style.marginTop = "20px";
+  testMessage.style.background = "#1f2933";
+  testMessage.style.color = "#7dd3fc";
+  testMessage.style.borderRadius = "8px";
+  testMessage.style.fontSize = "16px";
+
+  app.appendChild(testMessage);
+});
